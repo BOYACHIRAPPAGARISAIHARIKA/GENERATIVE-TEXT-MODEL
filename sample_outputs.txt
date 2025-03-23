@@ -1,0 +1,25 @@
+=== LSTM & GPT-2 Text Generation Samples ===
+
+Prompt 1: "The impact of climate change"
+-----------------------------------------
+LSTM Output:
+"The impact of climate change is a serious threat to the world and the people of the world. The world will be the most important thing in the world. The people of the world will be the most important people in the world and the world will be..."
+
+GPT-2 Output:
+"The impact of climate change continues to reshape our planet's ecosystems at an unprecedented rate. Rising sea levels, extreme weather patterns, and biodiversity loss present urgent challenges requiring global cooperation. While mitigation efforts are underway, adaptation strategies must also prioritize vulnerable communities most affected by environmental transformations."
+
+Prompt 2: "Artificial intelligence in healthcare"
+-----------------------------------------
+LSTM Output:
+"Artificial intelligence in healthcare will help doctors and patients to make better decisions. The future of medicine will be better and faster. Doctors will use computers to help them with their work and make better decisions about patients and..."
+
+GPT-2 Output:
+"Artificial intelligence in healthcare is revolutionizing medical diagnostics and treatment planning. Machine learning algorithms can now analyze medical imaging with accuracy rivaling human experts, while predictive analytics help identify at-risk patients earlier. However, ethical considerations around data privacy and algorithmic bias remain critical challenges that require careful regulation."
+
+Prompt 3: "Space exploration challenges"
+-----------------------------------------
+LSTM Output: 
+"Space exploration challenges are difficult but important for humanity. We need to explore space to find new worlds and understand our universe. The challenges are great but the rewards could be even greater for all people on Earth and future..."
+
+GPT-2 Output:
+"Space exploration faces multifaceted challenges ranging from technological limitations to physiological effects on astronauts. While rocket reusability has reduced costs, long-duration space travel requires breakthroughs in radiation shielding and life support systems. International collaboration and private sector innovation will be crucial for sustainable deep space exploration."
