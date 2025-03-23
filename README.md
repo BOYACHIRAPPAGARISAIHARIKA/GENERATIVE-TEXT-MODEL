@@ -23,4 +23,4 @@ MENTOR: NEELA SANTOSH
 ## Setup
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/text-generation-project.git
+git clone https://github.com/BOYACHIRAPPAGARISAIHARIKA/text-generation-project.git
