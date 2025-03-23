@@ -25,5 +25,5 @@ MENTOR: NEELA SANTOSH
 ```bash
 git clone https://github.com/BOYACHIRAPPAGARISAIHARIKA/text-generation-project.git
 
-##output
+
 ![Image](https://github.com/user-attachments/assets/1a95da00-4c8b-4c65-8bb4-d719affb95b3)
